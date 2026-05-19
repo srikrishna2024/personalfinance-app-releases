@@ -1,24 +1,22 @@
 ---
 layout: home
-title: Releases
+title: Release Notes
 ---
 
-# PersonalFinance App — Releases
+# PersonalFinance App — Release Notes
 
-Download links are shared directly. Use this page to check what's new and verify your download.
-
----
 
 <details open>
 <summary><strong>2026</strong></summary>
 
-**May 2026**
+<details>
+<summary>May 2026</summary>
 
-- [v0.3.2](v0.3.2) — Changed
-- [v0.3.1](v0.3.1) — Changed
-- [v0.3.0](v0.3.0) — Added
-
+<ul>
+<li><a href="v0.3.2">PersonalFinance App v0.3.2 — Release Notes</a></li>
+<li><a href="v0.3.1">PersonalFinance App v0.3.1 — Release Notes</a></li>
+<li><a href="v0.3.0">PersonalFinance App v0.3.0 — Release Notes</a></li>
+</ul>
 </details>
 
----
-
+</details>
