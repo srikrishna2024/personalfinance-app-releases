@@ -14,6 +14,7 @@ title: Release Notes
 
 <ul>
 <li><a href="v6.1.2">PersonalFinance App v6.1.2 — Release Notes</a></li>
+<li><a href="v6.1.12">PersonalFinance App v6.1.12 — Release Notes</a></li>
 <li><a href="v6.1.11">PersonalFinance App v6.1.11 — Release Notes</a></li>
 <li><a href="v6.1.1">PersonalFinance App v6.1.1 — Release Notes</a></li>
 <li><a href="v6.1.0">PersonalFinance App v6.1.0 — Release Notes</a></li>
