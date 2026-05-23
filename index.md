@@ -13,6 +13,7 @@ title: Release Notes
 <summary>May 2026</summary>
 
 <ul>
+<li><a href="v6.2.1">PersonalFinance App v6.2.1 — Release Notes</a></li>
 <li><a href="v6.2.0">PersonalFinance App v6.2.0 — Release Notes</a></li>
 <li><a href="v6.1.2">PersonalFinance App v6.1.2 — Release Notes</a></li>
 <li><a href="v6.1.12">PersonalFinance App v6.1.12 — Release Notes</a></li>
