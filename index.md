@@ -3,7 +3,7 @@ layout: home
 title: Release Notes
 ---
 
-# PersonalFinance App — Release Notes
+# Northstar — Release Notes
 
 
 <details open>
@@ -13,6 +13,7 @@ title: Release Notes
 <summary>June 2026</summary>
 
 <ul>
+<li><a href="v8.0.0">Northstar v8.0.0 — Release Notes</a></li>
 <li><a href="v7.5.1">PersonalFinance App v7.5.1 — Release Notes</a></li>
 <li><a href="v7.5.0">PersonalFinance App v7.5.0 — Release Notes</a></li>
 <li><a href="v7.4.2">PersonalFinance App v7.4.2 — Release Notes</a></li>
