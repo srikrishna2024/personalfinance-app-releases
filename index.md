@@ -13,6 +13,7 @@ title: Release Notes
 <summary>June 2026</summary>
 
 <ul>
+<li><a href="v8.1.6">Northstar v8.1.6 — Release Notes</a></li>
 <li><a href="v8.1.5">Northstar v8.1.5 — Release Notes</a></li>
 <li><a href="v8.1.4">Northstar v8.1.4 — Release Notes</a></li>
 <li><a href="v8.1.0">Northstar v8.1.0 — Release Notes</a></li>
