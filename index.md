@@ -10,6 +10,14 @@ title: Release Notes
 <summary><strong>2026</strong></summary>
 
 <details>
+<summary>July 2026</summary>
+
+<ul>
+<li><a href="v8.7.4">Northstar v8.7.4 — Release Notes</a></li>
+</ul>
+</details>
+
+<details>
 <summary>June 2026</summary>
 
 <ul>
