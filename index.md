@@ -15,6 +15,7 @@ title: Release Notes
 <ul>
 <li><a href="v8.9.5">Northstar v8.9.5 — Release Notes</a></li>
 <li><a href="v8.7.4">Northstar v8.7.4 — Release Notes</a></li>
+<li><a href="v8.13.1">Northstar v8.13.1 — Release Notes</a></li>
 <li><a href="v8.12.1">Northstar v8.12.1 — Release Notes</a></li>
 </ul>
 </details>
